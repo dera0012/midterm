@@ -27,6 +27,7 @@ header{
 h1{
     position: relative;
     text-align: center;
-    padding-top: 500px;
+    padding-top: 450px;
     color: #ffffff;
+    font: 70px sans-serif;
 }
