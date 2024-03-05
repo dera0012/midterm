@@ -1,12 +1,32 @@
+
+/* body */
+
 body{
     background-color: #aad4cf;
 }
 
 
+
+
+/* header */
+
+
+
 header{
     width: 100%;
+   
+    
+    
 }
 
 .head{
     width: 100%;
+    position: absolute;
+}
+
+h1{
+    position: relative;
+    text-align: center;
+    padding-top: 500px;
+    color: #ffffff;
 }
