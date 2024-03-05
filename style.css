@@ -33,3 +33,14 @@ h1{
     /* source 
     https://www.w3schools.com/css/tryit.asp?filename=trycss_image_text_center */
 }
+
+
+/* menu  */
+
+
+li{
+    display: inline;
+    font: 1em sans-serif;
+    margin: 200px;
+    font-size: 40px;
+}
