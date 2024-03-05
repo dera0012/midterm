@@ -14,20 +14,22 @@ body{
 
 header{
     width: 100%;
-   
-    
-    
+    position: relative;   
 }
 
 .head{
     width: 100%;
-    position: absolute;
+    /* position: absolute; */
 }
 
 h1{
-    position: relative;
+    position: absolute;
+    top: 50%;
+    width: 100%;
     text-align: center;
-    padding-top: 450px;
     color: #ffffff;
     font: 70px sans-serif;
+
+    /* source 
+    https://www.w3schools.com/css/tryit.asp?filename=trycss_image_text_center */
 }
