@@ -23,12 +23,12 @@ header{
 }
 
 h1{
-    position: absolute;
+    position:absolute;
     top: 50%;
     width: 100%;
-    text-transform: center;
+    text-align: center;
     color: #ffffff;
-    font: 85px sans-serif;
+    font: 95px sans-serif;
 
     /* source 
     https://www.w3schools.com/css/tryit.asp?filename=trycss_image_text_center */
@@ -56,3 +56,12 @@ li{
 
 }
 
+h2{
+    font: 4em sans-serif;
+    font-weight: 400;}
+
+
+.img2{ 
+
+    width: 27%;
+}
