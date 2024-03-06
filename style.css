@@ -17,7 +17,7 @@ header{
     position: relative;   
 }
 
-.head{
+.img1{
     width: 100%;
     /* position: absolute; */
 }
@@ -26,7 +26,7 @@ h1{
     position: absolute;
     top: 50%;
     width: 100%;
-    text-align: center;
+    text-transform: center;
     color: #ffffff;
     font: 85px sans-serif;
 
@@ -43,4 +43,16 @@ li{
     font: 1em sans-serif;
     margin: 200px;
     font-size: 40px;
+
+
+    /* source 
+    https://www.w3schools.com/css/css_navbar_horizontal.asp */
 }
+
+.border{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    padding-left: ;
+
+}
+
