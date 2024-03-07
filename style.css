@@ -120,14 +120,19 @@ button{
 
 .silver{
     margin-left: 3%;
+    font-size: 1.5rem;
 }
 
 h4{
     margin-left: 3%;
+    font-size: 1.5rem;
 }
 
 label{
     margin-left: 3%;
+    font-size: 1.5rem;
+
+    
 }
 
 footer{
@@ -135,9 +140,13 @@ footer{
     margin-top: 3%;
 }
 
-section{ 
-    border: solid; black
+section{
+
+    border-style: solid;
+    padding-top: 2rem;
 }
+    
+
     
     
     
@@ -145,6 +154,7 @@ section{
 
 
    
+
 
 
 
