@@ -76,35 +76,39 @@ p {font: 1.87em sans-serif;}
 
 
 .one{
-    width: 98%;
+    width: 95%;
     height: 5%;
-    margin-left: 2%;
+    margin-left: 3%;
     margin-right: 3%;
 }
 
 .two{
-    width: 98%;
+    width: 95%;
     height: 5%;
-    margin-left: 2%;
+    margin-left: 3%;
     margin-right: 3%;
 }
 
 .three{
-    width: 98%;
+    width: 95%;
     height: 15%;
-    margin-left: 2%;
+    margin-left: 3%;
     margin-right: 3%;
 
 }
 
 button{
-    width: 3%;
+    width: 4%;
     height: 3.5%;
     margin-top: 1.5%;
     background-color: #aad4cf;
 
 }
 
+.silver{
+    margin: 3%;
+}
+   
 
 
 
