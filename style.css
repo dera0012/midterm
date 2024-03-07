@@ -75,7 +75,31 @@ p {font: 1.87em sans-serif;}
 }
 
 
-input
+.one{
+    width: 100%;
+    height: 5%;
+}
+
+.two{
+    width: 100%;
+    height: 5%;
+}
+
+.three{
+    width: 100%;
+    height: 15%;
+
+}
+
+button{
+    width: 3%;
+    height: 3.5%;
+
+}
+
+
+
+
 
 
 
