@@ -40,7 +40,7 @@ h1{
                                                                   /* menu  */
 
 
-.first{
+.un{
     display: inline;
     font: 1em sans-serif;
     margin: 200px;
@@ -51,12 +51,29 @@ h1{
     https://www.w3schools.com/css/css_navbar_horizontal.asp */
 }
 
-#border{
-    border-left: 2px solid black;
-    border-right: 2px solid black;
-    
+  
+.deux{
+    display: inline;
+    font: 1em sans-serif;
+    margin: 200px;
+    font-size: 40px;
+ 
+
 
 }
+
+
+
+
+
+.trois{
+    display: inline;
+    font: 1em sans-serif;
+    margin: 200px;
+    font-size: 40px;
+}
+
+
 
 h2{
     font: 4em sans-serif;
@@ -122,16 +139,19 @@ button{
 .silver{
     margin-left: 3%;
     font-size: 1.5rem;
+    font: 2rem sans-serif;
 }
 
 h4{
     margin-left: 3%;
-    font-size: 1.5rem;
+    font-size: 3rem;
+    font: 3rem sans-serif;
 }
 
 label{
     margin-left: 3%;
     font-size: 1.5rem;
+    font: 2rem sans-serif;
 
     
 }
@@ -139,6 +159,10 @@ label{
 footer{
     margin-left: 90%;
     margin-top: 3%;
+
+    font: 1rem sans-serif;
+
+    
 }
 
 section{
