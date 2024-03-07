@@ -54,7 +54,7 @@ h1{
 #border{
     border-left: 2px solid black;
     border-right: 2px solid black;
-    padding-left: ;
+    
 
 }
 
@@ -62,10 +62,22 @@ h2{
     font: 4em sans-serif;
     font-weight: 400;}
 
+.img2{
+    float: left;
+    margin-right: 2rem;
+    margin-bottom: 3rem;
+    
+
+}
 
 
 
-p {font: 1.87em sans-serif;}
+
+p {font: 2rem sans-serif;
+
+    
+}
+
 
 
                                                                      /* list */
@@ -102,11 +114,25 @@ button{
     height: 3.5%;
     margin-top: 1.5%;
     background-color: #aad4cf;
+    margin-left: 3%;
 
 }
 
 .silver{
-    margin: 3%;
+    margin-left: 3%;
+}
+
+h4{
+    margin-left: 3%;
+}
+
+label{
+    margin-left: 3%;
+}
+
+footer{
+    margin-left: 90%;
+    margin-top: 3%;
 }
 
 
