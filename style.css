@@ -38,7 +38,7 @@ h1{
 /* menu  */
 
 
-li{
+.first{
     display: inline;
     font: 1em sans-serif;
     margin: 200px;
@@ -61,20 +61,26 @@ h2{
     font-weight: 400;}
 
 
-.img2{
+.second{
     
-    width: 27%;
-    float: left;
-    margin-right: 3rem;
-    margin-bottom: 2rem;
+    font-size: small;
 }
 
-p{
-    font: 1.87em sans-serif;
+p {font: 1.87em sans-serif;}
+
+
+
+.ul2 a{
+    list-style-type: circle;
+    
+}
     
 
 
-}
+
+
+
+
 
 
 
