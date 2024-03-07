@@ -1,5 +1,5 @@
 
-/* body */
+                                                            /* body */
 
 body{
     background-color: #aad4cf;
@@ -8,7 +8,7 @@ body{
 
 
 
-/* header */
+                                                             /* header */
 
 
 
@@ -35,7 +35,9 @@ h1{
 }
 
 
-/* menu  */
+
+
+                                                                  /* menu  */
 
 
 .first{
@@ -49,7 +51,7 @@ h1{
     https://www.w3schools.com/css/css_navbar_horizontal.asp */
 }
 
-.border{
+#border{
     border-left: 2px solid black;
     border-right: 2px solid black;
     padding-left: ;
@@ -61,20 +63,16 @@ h2{
     font-weight: 400;}
 
 
-.second{
-    
-    font-size: small;
-}
+
 
 p {font: 1.87em sans-serif;}
 
 
-
-.ul2 a{
-    list-style-type: circle;
+                                                                     /* list */
+.second{
     
+    font-size: small;
 }
-    
 
 
 
